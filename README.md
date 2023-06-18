@@ -1,2 +1,0 @@
-# akt
-akt-api
